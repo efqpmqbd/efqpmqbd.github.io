@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://efqpmqbd.github.io/sitemap.xml
